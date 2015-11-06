@@ -1,0 +1,48 @@
+
+
+[Quickbinds]
+evtUseItem4smart=1
+evtCastAvatarSpell2smart=1
+evtCastAvatarSpell1smart=1
+evtCastSpell1smart=1
+evtCastSpell4smart=1
+evtCastSpell3smart=1
+evtUseItem5smart=1
+evtUseVisionItemsmart=1
+evtCastSpell2smart=1
+evtUseItem6smart=1
+evtUseItem1smart=1
+evtUseItem3smart=1
+evtUseItem2smart=1
+
+[GameEvents]
+evtEmoteLaugh=[l]
+evtEmoteDance=[i]
+evtEmoteTaunt=[t]
+evtEmoteJoke=[j]
+evtSelfCastSpell3=[<Unbound>]
+evtSelfCastSpell4=[<Unbound>]
+evtLevelSpell3=[Alt][e]
+evtSelfCastSpell1=[<Unbound>]
+evtSelfCastSpell2=[<Unbound>]
+evtLevelSpell2=[Alt][w]
+evtLevelSpell1=[Alt][q]
+evtLevelSpell4=[Alt][r]
+evtScrollLeft=[Left Arrow]
+evtUseVisionItem=[Button 4]
+evtUseItem4=[Button 5]  
+evtPlayerAttackMove=[<Unbound>]  
+evtPlayerAttackMoveClick=[Button 1]  
+evtPlayerSelectClick = [Button 3]   
+evtOnUIMouse4Pan=[<Unbound>]  
+
+
+[MouseSettings]  
+RollerButtonSpeed = 1  
+
+
+[HUDEvents]
+evtHoldShowScoreBoard=[Tab]
+evtOnUIMouse1 = [Button 1], [Button 3]   
+evtOnUIMouse2 = [Button 2]   
+evntHudMoveableSelect = [Button 3]
