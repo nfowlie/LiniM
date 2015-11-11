@@ -7,3 +7,12 @@ c:\users\neil\documents\visual studio 2013\Projects\League Input Changer\League 
 c:\users\neil\documents\visual studio 2013\Projects\League Input Changer\League Input Changer\obj\Debug\League Input Changer.exe
 c:\users\neil\documents\visual studio 2013\Projects\League Input Changer\League Input Changer\obj\Debug\League Input Changer.pdb
 c:\users\neil\documents\visual studio 2013\Projects\League Input Changer\League Input Changer\obj\Debug\League_Input_Changer.Main.resources
+C:\Users\Neil\Documents\LiniM\League Input Changer\bin\Debug\League Input Changer.exe.config
+C:\Users\Neil\Documents\LiniM\League Input Changer\obj\Debug\League Input Changer.exe
+C:\Users\Neil\Documents\LiniM\League Input Changer\obj\Debug\League Input Changer.pdb
+C:\Users\Neil\Documents\LiniM\League Input Changer\bin\Debug\League Input Changer.exe
+C:\Users\Neil\Documents\LiniM\League Input Changer\bin\Debug\League Input Changer.pdb
+C:\Users\Neil\Documents\LiniM\League Input Changer\obj\Debug\League Input Changer.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Documents\LiniM\League Input Changer\obj\Debug\League_Input_Changer.Main.resources
+C:\Users\Neil\Documents\LiniM\League Input Changer\obj\Debug\League_Input_Changer.Properties.Resources.resources
+C:\Users\Neil\Documents\LiniM\League Input Changer\obj\Debug\League Input Changer.csproj.GenerateResource.Cache
