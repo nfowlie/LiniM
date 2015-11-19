@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League Input Changer", "League Input Changer\League Input Changer.csproj", "{9286056E-9E51-449E-B301-9CDBCB5EC8BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiniM", "LiniM\LiniM.csproj", "{9286056E-9E51-449E-B301-9CDBCB5EC8BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

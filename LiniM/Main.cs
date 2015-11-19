@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace League_Input_Changer
+namespace LiniM
 {
     public partial class Main : Form
     {
@@ -25,7 +25,7 @@ namespace League_Input_Changer
 
         public DirectoryInfo RootPath = new DirectoryInfo("C:\\Riot Games\\League of Legends\\Config");
         public DirectoryInfo InputPath = new DirectoryInfo("C:\\Riot Games\\League of Legends\\Config\\input");
-
+        
         public FileInfo[] FileRetrieval(DirectoryInfo input)
         {
             FileInfo[] files = input.GetFiles();
@@ -39,6 +39,8 @@ namespace League_Input_Changer
             if(!InputPath.Exists){
                 InputPath.Create();
             }
+
+            FileRetrieval(InputPath);
         }
 
         private void loadButton_Click(object sender, EventArgs e)
@@ -55,12 +57,17 @@ namespace League_Input_Changer
         private void exportButton_Click(object sender, EventArgs e)
         {
             string newFile = Prompt.ExportDialog("Name: ", "Input File Name");
-            if (File.Exists(RootPath + "\\input.ini"))
+            try{
+                if (File.Exists(RootPath + "\\input.ini"))
+                {
+                    File.Copy(RootPath + "\\input.ini", InputPath + "\\" + newFile + ".ini", false);
+                }
+                else {
+                    File.Create(InputPath + newFile + ".ini");
+                }
+            }catch (Exception ex)
             {
-                File.Copy(RootPath + "\\input.ini", InputPath + "\\" + newFile + ".ini", true);
-            }
-            else {
-                File.Create(InputPath + newFile + ".ini");
+                MessageBox.Show("File Already Exists");
             }
 
             FileRetrieval(InputPath);

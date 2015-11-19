@@ -1,4 +1,4 @@
-﻿namespace League_Input_Changer
+﻿namespace LiniM
 {
     partial class Main
     {
@@ -53,7 +53,7 @@
             // 
             // filesDropDown
             // 
-            this.filesDropDown.Location = new System.Drawing.Point(0, 0);
+            this.filesDropDown.Location = new System.Drawing.Point(76, 88);
             this.filesDropDown.Name = "filesDropDown";
             this.filesDropDown.Size = new System.Drawing.Size(121, 21);
             this.filesDropDown.TabIndex = 3;
@@ -89,7 +89,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Main";
-            this.Text = "League Input Changer";
+            this.Text = "League ini Manager";
             this.Load += new System.EventHandler(this.Main_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

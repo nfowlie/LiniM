@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace League_Input_Changer
+namespace LiniM
 {
     static class Program
     {

@@ -1,0 +1,9 @@
+C:\Users\Neil\Documents\LiniM\LiniM\bin\Debug\League Input Changer.exe.config
+C:\Users\Neil\Documents\LiniM\LiniM\obj\Debug\League Input Changer.exe
+C:\Users\Neil\Documents\LiniM\LiniM\obj\Debug\League Input Changer.pdb
+C:\Users\Neil\Documents\LiniM\LiniM\bin\Debug\League Input Changer.exe
+C:\Users\Neil\Documents\LiniM\LiniM\bin\Debug\League Input Changer.pdb
+C:\Users\Neil\Documents\LiniM\LiniM\obj\Debug\LiniM.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Documents\LiniM\LiniM\obj\Debug\LiniM.csproj.GenerateResource.Cache
+C:\Users\Neil\Documents\LiniM\LiniM\obj\Debug\LiniM.Main.resources
+C:\Users\Neil\Documents\LiniM\LiniM\obj\Debug\LiniM.Properties.Resources.resources
